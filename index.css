@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&family=Inter:wght@400;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Figtree', sans-serif;;
+
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+    height: 100vh;
+  
+  
+
+
+
+
+}
+.All{
+    margin: 100px auto;
+
+    background-color: white;
+    width: 350px;
+    height: auto;
+    padding: 15px;
+   
+    border-radius: 15px;
+    box-shadow: 5px 5px black;
+  
+
+
+
+
+
+
+
+}
+.All svg{
+    width: 100%;
+    border-radius: 20px;
+  
+
+}
+.All a{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    font-weight: 800;
+    font-size: 24px;
+    transition: 0.3s;
+
+
+   
+
+
+
+
+
+
+}
+.All a:hover{
+    color:hsl(47, 88%, 63%) ;
+
+}
+.user{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
